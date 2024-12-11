@@ -1,6 +1,6 @@
 
 # Quizzler - The Interactive Quiz App
-#### Video Demo:  <URL HERE>
+#### Video Demo:  <URL https://youtu.be/DAr3SiAG0E8>
 
 Quizzler is a Python-based True/False quiz application designed to test your knowledge on a variety of topics in an engaging and interactive way. The app fetches trivia questions dynamically from the [Open Trivia Database (OpenTDB)](https://opentdb.com/), ensuring that every quiz session is unique. With its intuitive graphical user interface (GUI) built using `tkinter`, Quizzler offers an accessible and fun experience for users of all ages.
 
